@@ -63,4 +63,4 @@ I am interested in a variety of topics in computer vision and medical image proc
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ruCxs5fSYmokIOdjMBdy2IxqKnq9RtaMoZPJhCgI5Gs&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1bq1k" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=ruCxs5fSYmokIOdjMBdy2IxqKnq9RtaMoZPJhCgI5Gs" /></a>
