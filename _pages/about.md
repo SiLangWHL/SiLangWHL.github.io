@@ -60,3 +60,7 @@ I am interested in a variety of topics in computer vision and medical image proc
 </tr>
   
 </table>
+
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ruCxs5fSYmokIOdjMBdy2IxqKnq9RtaMoZPJhCgI5Gs&cl=ffffff&w=a"></script>
