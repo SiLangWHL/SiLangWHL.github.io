@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
+## <i class="fa fa-cog fa-fw"></i> About Me ##
 I am a first-year Ph.D. candidate at Hong Kong University of Science and Technology (HongKong, China), advised by Prof. [Xiaomeng Li](https://xmengli.github.io/). Before that, I was advised by Prof. [Haoji Hu](https://person.zju.edu.cn/en/huhaoji) and Prof. [Zuozhu Liu](https://person.zju.edu.cn/lzz) at Zhejiang University (Hangzhou, China), and received my M.S. degree in 2022.
 
 I am interested in a variety of topics in computer vision and medical image processing.
 
 
-## News
+## <i class="fa fa-fw fa-rss "></i> Recent News ##
 - 2022/08: Join Prof. [Li](https://xmengli.github.io/)'s lab at HKUST to pursue my Ph.D. degree.
 - 2022/07: One paper accepted by ECCV'22 as <font color='red'>oral presentation (2.7% acceptance rate)</font>. 
 - 2022/07: One paper accepted by FL-IJCAI'22.
