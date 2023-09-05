@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## <i class="fa fa-id-card" aria-hidden="true"></i> About Me ##
-I am a second-year Ph.D. student at HKUST, advised by Prof. <a href="https://xmengli.github.io/">Li</a>. Before that, I was advised by Prof. [Haoji Hu](https://person.zju.edu.cn/en/huhaoji) and Prof. [Zuozhu Liu](https://person.zju.edu.cn/lzz) at Zhejiang University (Hangzhou, China), and received my M.S. degree in 2022.
+I am a second-year Ph.D. student at HKUST, advised by Prof. <a href="https://xmengli.github.io/">Xiaomeng Li</a>. Before that, I was advised by Prof. [Haoji Hu](https://person.zju.edu.cn/en/huhaoji) and Prof. [Zuozhu Liu](https://person.zju.edu.cn/lzz) at Zhejiang University (Hangzhou, China), and received my M.S. degree in 2022.
 
 I am interested in various topics in computer vision and medical imaging processing.
 
