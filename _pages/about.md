@@ -13,7 +13,7 @@ I am a second-year Ph.D. student at HKUST, advised by Prof. <a href="https://xme
 I am interested in various topics in computer vision and medical imaging processing.
 
 
-## <i class="fa fa-fw fa-rss "></i> Recent News ##
+## <i class="fa fa-rocket" aria-hidden="true"></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
   
