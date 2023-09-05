@@ -8,34 +8,48 @@ redirect_from:
   - /about.html
 ---
 ## <i class="fa fa-id-card" aria-hidden="true"></i> About Me ##
-I was advised by Prof. [Haoji Hu](https://person.zju.edu.cn/en/huhaoji) and Prof. [Zuozhu Liu](https://person.zju.edu.cn/lzz) at Zhejiang University (Hangzhou, China), and received my M.S. degree in 2022.
+I am a second-year Ph.D. student at HKUST, advised by Prof. <a href="https://xmengli.github.io/">Li</a>. Before that, I was advised by Prof. [Haoji Hu](https://person.zju.edu.cn/en/huhaoji) and Prof. [Zuozhu Liu](https://person.zju.edu.cn/lzz) at Zhejiang University (Hangzhou, China), and received my M.S. degree in 2022.
 
-I am interested in a variety of topics in computer vision.
+I am interested in various topics in computer vision and medical imaging processing.
 
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  
+
+<li> <b>2023/06</b>: One paper about CLIP-driven zero-shot OOD detection was accepted by ICCV'23. </li>
+<li> <b>2023/01</b>: One co-author paper was accepted by ICLR'23. </li>
 <li> <b>2022/08</b>: Join Prof. <a href="https://xmengli.github.io/">Li</a>'s lab at HKUST to pursue my Ph.D. degree.  </li>
-<li> <b>2022/07</b>: One paper accepted by ECCV'22 as <font color='red'>oral presentation (2.7% acceptance rate)</font>. </li>
-<li> <b>2022/07</b>: One paper accepted by FL-IJCAI'22. </li>
+<li> <b>2022/07</b>: One paper was accepted by ECCV'22 as <font color='red'>oral presentation (2.7% acceptance rate)</font>. </li>
 <li> <b>2022/06</b>: Graduate with M.S. degree from Zhejiang University, Hangzhou, China. </li>
-<li> <b>2022/06</b>: One paper accepted by ICIP'22. </li>
-<li> <b>2022/03</b>: Two papers accepted by MIDL'22. </li>
-<li> <b>2021/12</b>: One paper accepted by AAAI'22. </li>
+<li> <b>2021/12</b>: One paper was accepted by AAAI'22. </li>
 <li> <b>2021/05</b>: Start internship at DAMO Academy, Alibaba (Hangzhou, China). </li>
 <li> <b>2020/12</b>: Start internship at SenseTime (Hangzhou, China). </li>
-<li> <b>2019/09</b>: Join Prof. <a href="https://person.zju.edu.cn/en/huhaoji">Hu</a>'s lab at Zhejiang University to pursue M.S. Degree. </li>
   
 </ul>
 
 ## <i class="fa fa-graduation-cap" aria-hidden="true"></i> Publications ##
 <table style="border: none; border-collapse: collapse;" border="0">
 
+
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/main/images/iccv_23_wang.png" width="800" />
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/main/images/ijcv_23_li.png" width="800" height="150" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Yi Li, <b>Hualiang Wang</b>, Yiqun Duan and Xiaomeng Li.
+    "Clip surgery for better explainability with enhancement in open-vocabulary tasks".
+    <b>Preprint</b> 2023<br>
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/pdf/2304.05653.pdf">Arxiv</a></span><br>
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/xmed-lab/CLIP_Surgery">Code</a></span>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/main/images/iccv_23_wang.png" width="800" height="150" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Hualiang Wang</b>, Yi Li, Huifeng Yao and Xiaomeng Li.
@@ -50,7 +64,22 @@ I am interested in a variety of topics in computer vision.
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/vmf.png" width="800" />
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/main/images/iclr_23_bai.png" width="800" height="150" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Jianhong Bai, Zuozhu Liu, <b>Hualiang Wang</b>, Jin Hao, Yang Feng, Huanpeng Chu and Haoji Hu.
+    "On the Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning".
+    In <b>ICLR</b> 2023<br>
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/pdf/2306.04934.pdf">Arxiv</a></span><br>
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/JianhongBai/COLT">Code</a></span>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/vmf.png" width="800" height="150" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Hualiang Wang</b>, Siming Fu, Xiaoxuan He, et al.
@@ -65,7 +94,7 @@ I am interested in a variety of topics in computer vision.
  
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/rch.png" width="800" />
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/rch.png" width="800" height="150" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Hualiang Wang</b>, Huanpeng Chu, Siming Fu, et al.
