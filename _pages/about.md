@@ -35,6 +35,21 @@ I am interested in a variety of topics in computer vision.
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/main/images/iccv_23_wang.png" width="800" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    <b>Hualiang Wang</b>, Yi Li, Huifeng Yao and Xiaomeng Li.
+    "CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No".
+    In <b>ICCV</b> 2023<br>
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/pdf/2308.12213.pdf">Arxiv</a></span><br>
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/xmed-lab/CLIPN">Code</a></span>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
     <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/vmf.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
