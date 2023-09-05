@@ -16,7 +16,8 @@ I am interested in various topics in computer vision and medical imaging process
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-
+  
+<li> <b>2023/07</b>: One co-author paper was accepted by DeCaF-MICCAI'23. </li>
 <li> <b>2023/06</b>: One paper about CLIP-driven zero-shot OOD detection was accepted by ICCV'23. </li>
 <li> <b>2023/01</b>: One co-author paper was accepted by ICLR'23. </li>
 <li> <b>2022/08</b>: Join Prof. <a href="https://xmengli.github.io/">Li</a>'s lab at HKUST to pursue my Ph.D. degree.  </li>
@@ -34,7 +35,7 @@ I am interested in various topics in computer vision and medical imaging process
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/main/images/ijcv_23_li.png" width="800" height="150" />
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/ijcv_23_li.png" width="800" height="150" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Yi Li, <b>Hualiang Wang</b>, Yiqun Duan and Xiaomeng Li.
@@ -49,7 +50,7 @@ I am interested in various topics in computer vision and medical imaging process
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/main/images/iccv_23_wang.png" width="800" height="150" />
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/iccv_23_wang.png" width="800" height="150" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Hualiang Wang</b>, Yi Li, Huifeng Yao and Xiaomeng Li.
@@ -64,7 +65,22 @@ I am interested in various topics in computer vision and medical imaging process
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/main/images/iclr_23_bai.png" width="800" height="150" />
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/DeCaF-MICCAI_23_marwan.png" width="800" height="150" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Marawan Elbatel, <b>Hualiang Wang</b>, Robert Martí, Huazhu Fu and Xiaomeng Li
+    "Federated Model Aggregation via Self-Supervised Priors for Highly Imbalanced Medical Image Classification".
+    In <b>DeCaF-MICCAI</b> 2023<br>
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/pdf/2307.14959.pdf">Arxiv</a></span><br>
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/xmed-lab/Fed-MAS">Code</a></span>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/iclr_23_bai.png" width="800" height="150" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Jianhong Bai, Zuozhu Liu, <b>Hualiang Wang</b>, Jin Hao, Yang Feng, Huanpeng Chu and Haoji Hu.
