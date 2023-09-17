@@ -126,7 +126,4 @@ I am interested in various topics in computer vision and medical imaging process
 </table>
 
 
-  
-<div align="center"> <a href="https://clustrmaps.com/site/1bq1k" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=500&t=n&d=ruCxs5fSYmokIOdjMBdy2IxqKnq9RtaMoZPJhCgI5Gs&co=ffffff&ct=808080" /></a> </div>
-
 
