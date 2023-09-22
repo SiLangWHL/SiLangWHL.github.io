@@ -16,7 +16,8 @@ I am interested in various topics in computer vision and medical imaging process
 ## <i class="fa fa-rocket" aria-hidden="true"></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  
+
+<li> <b>2023/09</b>: Two co-author papers on long-tailed open-world classification and long-tailed federated learning were accepted by NeurIPS'23. </li>
 <li> <b>2023/07</b>: One co-author paper was accepted by DeCaF-MICCAI'23. </li>
 <li> <b>2023/06</b>: One paper about CLIP-driven zero-shot OOD detection was accepted by ICCV'23. </li>
 <li> <b>2023/01</b>: One co-author paper was accepted by ICLR'23. </li>
