@@ -33,6 +33,20 @@ I am interested in various topics in computer vision and medical imaging process
 ## <i class="fa fa-graduation-cap" aria-hidden="true"></i> Publications ##
 <table style="border: none; border-collapse: collapse;" border="0">
 
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/nips2023bai.png" width="800" height="150" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Jianhong Bai, Zuozhu Liu, <b>Hualiang Wang</b>, et al.
+    "Towards Distribution-Agnostic Generalized Category Discovery".
+    In <b>NIPS</b> 2023<br>
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/pdf/2310.01376.pdf">Arxiv</a></span><br>
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/JianhongBai/BaCon">Code</a></span>
+  </td>
+</tr>
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
